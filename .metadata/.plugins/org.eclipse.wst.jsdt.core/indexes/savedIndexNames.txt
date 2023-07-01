@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\liba_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4061705714.index
+1615410472.index
+908309420.index
+1679867318.index
+400516700.index
+1240553634.index
